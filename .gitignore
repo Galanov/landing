@@ -1,0 +1,15 @@
+nodu_modules
+npm-debug.log
+
+.DS_Store
+build
+Thumbs.db
+ehthumbs.db
+
+Desktop.ini
+
+#Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
